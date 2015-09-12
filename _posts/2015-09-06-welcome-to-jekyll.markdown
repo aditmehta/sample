@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Chill!"
 date:   2015-09-06 16:15:03
 categories: jekyll update
 ---
